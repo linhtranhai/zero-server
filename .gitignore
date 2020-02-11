@@ -60,5 +60,5 @@ typings/
 idea/**/workspace.xml
 
 # react js
-client/*
-!client/build
+# client/*
+# !client/build
